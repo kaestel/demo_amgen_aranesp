@@ -11,13 +11,13 @@ document.write('<script type="text/javascript" src="/js/jes/src/u-animation.js">
 
 document.write('<script type="text/javascript" src="/js/jes/src/u-init.js"></script>');
 
-document.write('<script type="text/javascript" src="/js/jes/src/agnitio/type_b/u-ref.js"></script>');
-document.write('<script type="text/javascript" src="/js/jes/src/agnitio/type_b/i-swipe.js"></script>');
-document.write('<script type="text/javascript" src="/js/jes/src/agnitio/type_b/i-header.js"></script>');
-document.write('<script type="text/javascript" src="/js/jes/src/agnitio/type_b/i-footer.js"></script>');
-document.write('<script type="text/javascript" src="/js/jes/src/agnitio/type_b/no_monitor_alerts.js"></script>');
+document.write('<script type="text/javascript" src="/js/lib/u-ref.js"></script>');
+document.write('<script type="text/javascript" src="/js/lib/i-swipe.js"></script>');
+document.write('<script type="text/javascript" src="/js/lib/i-header.js"></script>');
+document.write('<script type="text/javascript" src="/js/lib/i-footer.js"></script>');
+document.write('<script type="text/javascript" src="/js/lib/no_monitor_alerts.js"></script>');
 
-//document.write('<script language="javascript" type="text/javascript" src="/js/lib/i-presentation.js"></script>');
+//document.write('<script type="text/javascript" src="/js/lib/i-presentation.js"></script>');
 
 document.write('<script type="text/javascript" src="/js/lib/i-content.js"></script>');
 document.write('<script type="text/javascript" src="/js/lib/i-slides.js"></script>');
